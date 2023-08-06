@@ -1,0 +1,2 @@
+# MSP430F5529_FFT
+msp430f5529 FFT ,相位差，双通道ADC
